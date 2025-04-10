@@ -2,9 +2,9 @@
 
 Welcome to my personal portfolio site! I'm a research consultant with a strong background in **quantitative** and **qualitative research**, specializing in data visualization, interactive dashboards, and storytelling with data.
 
-🖥️ **Website:** [yourname.github.io](https://yourname.github.io)  
+🖥️ **Website:** [katiedonnelly.github.io](https://katiedonnelly.github.io)  
 📫 **Contact:** your.email@example.com  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/katie-donnelly-974494b5/](https://www.linkedin.com/in/katie-donnelly-974494b5/)
 
 ---
 
