@@ -169,9 +169,9 @@ ul.task-list li input[type="checkbox"] {
 </style>
 <section id="academic-publications" class="level2">
 <h2 class="anchored" data-anchor-id="academic-publications">Academic Publications</h2>
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
-<p><img src="ssm.image.jpg" width="150px" style="margin-right: 20px;"></p>
-<div>
+<div class="pub-container">
+<p><img src="ssm.image.jpg" class="pub=img" width="150px" style="margin-right: 20px;"></p>
+<div class="pub-text">
 <h3 class="anchored">
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0277953623009097">Patient-centered or population-centered? How epistemic discrepancies cause harm and sow mistrust. <em>Social Science and Medicine,</em> 2024</a>
 </h3>
@@ -180,9 +180,9 @@ Medical distrust is often conceived of as a problem of misinformation or ignoran
 </p>
 </div>
 </div>
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
-<p><img src="city.image.jpg" width="150px" style="margin-right: 20px;"></p>
-<div>
+<div class="pub-container">
+<p><img src="city.image.jpg" class="pub=img" width="150px" style="margin-right: 20px;"></p>
+<div class="pub-text">
 <h3 class="anchored">
 <a href="https://journals.sagepub.com/doi/10.1111/cico.12296">The Gentrifier’s Dilemma: Narrative Strategies and Self‐Justifications of Incoming Residents in Bedford‐Stuyvesant, Brooklyn. <em>City and Community Journal</em>, 2018.</a>
 </h3>
@@ -194,9 +194,9 @@ This paper examines how gentrifiers negotiate tensions between the narratives of
 </section>
 <section id="media-publications" class="level2">
 <h2 class="anchored" data-anchor-id="media-publications">Media Publications</h2>
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
-<p><img src="vice.image.jpg" width="150px" style="margin-right: 20px;"></p>
-<div>
+<div class="pub-container">
+<p><img src="vice.image.jpg" class="pub-img" width="150px" style="margin-right: 20px;"></p>
+<div class="pub-text">
 <h3 class="anchored">
 <a href="https://www.vice.com/en/article/how-woke-liberals-convince-themselves-that-gentrifying-is-okay/">How ‘Woke’ Liberals Convince Themselves That Gentrifying Is Okay. VICE, July 2019.</a>
 </h3>
@@ -205,9 +205,9 @@ In this op-ed for VICE, I talk about my research on gentrifiers and the personal
 </p>
 </div>
 </div>
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
-<p><img src="cnn.image.png" width="150px" style="margin-right: 20px;"></p>
-<div>
+<div class="pub-container">
+<p><img src="cnn.image.png" class="pub-img" width="150px" style="margin-right: 20px;"></p>
+<div class="pub-text">
 <h3 class="anchored">
 <a href="https://www.cnn.com/2020/06/29/opinions/coronavirus-single-parenting-graduate-school-donnelly/index.html">Grad student mom: This is something I can’t fix. CNN, June 2020</a>
 </h3>
@@ -216,8 +216,45 @@ As part of CNN’s “Generation Pandemic” series, this op-ed reflects on my e
 </p>
 </div>
 </div>
+<style>
+.pub-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}
+
+.pub-img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+
+.pub-text {
+  flex: 1 1 300px;
+  min-width: 200px;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .pub-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .pub-img {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+}
+</style>
+<div class="::::::">
 
 
+</div>
 </section>
 
 </main> <!-- /main -->
