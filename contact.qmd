@@ -1,7 +1,6 @@
 ---
-title: "contact"
+title: "Contact"
 ---
 
 Email: kd5\@princeton.alumni.edu\
-GitHub: [\@yourhandle](https://github.com/yourhandle)\
-LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+LinkedIn: [Katie Donnelly LinkedIn](https://www.linkedin.com/in/katie-donnelly-974494b5/)

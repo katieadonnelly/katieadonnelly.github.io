@@ -1,14 +1,28 @@
 ---
-title: "portfolio"
+title: "Portfolio"
 ---
 
 ## Interactive Dashboards
+
+**US Census Data Dashboard**
+
+This is an example of an interactive data dashboard that I can create for clients. The map represents 2010 US Census data, showing the racial/ethnic data at the census tract level. User's can select their variable of interest via a drop down menu, as well as adjust the range of interest to calibrate the visualization to their needs.
 
 <iframe src="https://employeeandculturalengagement.shinyapps.io/census-app/" width="100%" height="600px">
 
 </iframe>
 
+**Stock Market Data Dashboard**
+
+Here is another example of the types of interactive dashboards I can create for clients. In this dashboard, users can input a stock of their choice, using the three letter stock symbol. The chart will then display the stock price over time. Users have the option to plot along a log scale or adjust for inflation in the visualization.
+
+<iframe src="https://employeeandculturalengagement.shinyapps.io/stockvis/" width="100%" height="600px">
+
+</iframe>
+
 ## Data Visualizations
+
+This map is from a project I did for the Kenyan Health Ministry. The Ministry wanted to map health care centers, according to their classification tier, in the neighborhood of Makadara in Nairobi, Kenya. Users can toggle through various types of maps, including topographical and street view, in order to see where neighborhood health centers are located and what level of care they provide.
 
 <iframe src="https://katieadonnelly.github.io/MakadaraMapBetter/" width="100%" height="600px">
 

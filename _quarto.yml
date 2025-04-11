@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Katie Donnelly"
@@ -9,6 +10,8 @@ website:
         href: index.qmd
       - text: "Portfolio"
         href: portfolio.qmd
+      - text: "Publications"
+        href: publications.qmd
       - text: "Services"
         href: services.qmd
       - text: "Contact"

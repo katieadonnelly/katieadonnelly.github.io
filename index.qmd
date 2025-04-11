@@ -1,7 +1,61 @@
 ---
 title: "Welcome"
+format: html
 ---
 
-Hi! I'm **Katie Donnelly**, a data visualization expert and research consultant.
+## About Me
 
-I specialize in both qualitative and quantitative methods. Check out my work and get in touch!
+:::: bio-container
+::: bio-text
+<h3>Katie Donnelly</h3>
+
+<p>Hi! I'm **Katie Donnelly**, a data visualization expert and research consultant.I hold a Ph.D. in Sociology and Social Policy from Princeton University.I have extensive experience conducting research in academic and industry settings, as well as in translating research results into actionable insights for a variety of stakeholders, both domestically and internationally. I specialize in both qualitative and quantitative methods. Check out my work and get in touch!</p>
+:::
+
+<!-- Biopic image on the right -->
+
+<img src="bio.pic.jpg" alt="Katie Donnelly" class="bio-pic" width="275px" height="275px" style="border-radius: 50%; margin-left: 20px; object-fit: cover;"/>
+::::
+
+```{=html}
+<style>
+.bio-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+}
+
+.bio-text {
+  flex: 1 1 300px;
+  margin-right: 20px;
+  min-width: 200px;
+}
+
+.bio-pic {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+  .bio-container {
+    flex-direction: column-reverse;
+    align-items: center;
+    text-align: center;
+  }
+
+  .bio-text {
+    margin-right: 0;
+  }
+
+  .bio-pic {
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+}
+</style>
+```

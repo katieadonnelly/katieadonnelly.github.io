@@ -9,8 +9,8 @@ title: "Services"
 
 ### Qualitative Research
 
--   Interview design
--   Thematic analysis
+-   In-depth interviewing 
+-   Focus groups
 -   Mixed methods studies
 
 ### Data Visualization

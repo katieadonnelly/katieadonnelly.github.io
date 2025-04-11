@@ -13,5 +13,8 @@
   },
   "portfolio.qmd": {
     "portfolio.html": "d7be807d"
+  },
+  "publications.qmd": {
+    "publications.html": "130e8569"
   }
 }

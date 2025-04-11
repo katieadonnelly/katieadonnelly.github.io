@@ -1,0 +1,108 @@
+---
+title: "Publications"
+editor: visual
+format: html
+---
+
+```{=html}
+<style>
+/* Custom button styles */
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+</style>
+```
+
+## Academic Publications
+
+:::: pub-container
+<img src="ssm.image.jpg" class="pub=img" width="150px" style="margin-right: 20px;"/>
+
+::: pub-text
+<h3><a href="https://www.sciencedirect.com/science/article/abs/pii/S0277953623009097">Patient-centered or population-centered? How epistemic discrepancies cause harm and sow mistrust. *Social Science and Medicine,* 2024</a></h3>
+
+<p>Medical distrust is often conceived of as a problem of misinformation or ignorance. In this paper, I depart from this framework, attributing distrust instead to epistemic divergence between lay people and experts. Using data from a contraceptive side effects Facebook group and in-depth physician interviews, I find that providers employ a “body-as-subject” lens informed by population-health goals, while group members employ a “body-as-agent” lens that privileges individuality and bodily autonomy. Provider epistemologies are privileged, creating epistemic injustice and harm for patients. Ultimately, this erodes trust in providers and the medical community more broadly. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0277953623009097" class="btn btn-primary">Read More</a></p>
+:::
+::::
+
+:::: pub-container
+<img src="city.image.jpg" class="pub=img" width="150px" style="margin-right: 20px;"/>
+
+::: pub-text
+<h3><a href="https://journals.sagepub.com/doi/10.1111/cico.12296">The Gentrifier’s Dilemma: Narrative Strategies and Self‐Justifications of Incoming Residents in Bedford‐Stuyvesant, Brooklyn. *City and Community Journal*, 2018.</a></h3>
+
+<p>This paper examines how gentrifiers negotiate tensions between the narratives of liberal progressivism they espouse and their role in neighborhood change. Through in‐depth interviews with recent residents in a gentrifying neighborhood in Brooklyn, this paper identifies patterns in rhetorical strategies and narrative techniques employed by interviewees to manage points of conflict. It finds that gentrifiers express ambivalence and feelings of guilt surrounding their presence in the neighborhood and that they manage this ambivalence through three main strategies: (1) reframing the outcomes of gentrification in positive terms, (2) distinguishing their behaviors and attitudes from the stereotypical “bad” gentrifier, and (3) displacing their responsibility for the process of gentrification onto another group of actors, such as the government or real estate developers. These results provide a framework for understanding how individuals justify their complicity in other processes which they see as morally questionable, such as unethical consumerism. <a href="https://journals.sagepub.com/doi/10.1111/cico.12296" class="btn btn-primary">Read More</a></p>
+:::
+::::
+
+## Media Publications
+
+:::: pub-container
+<img src="vice.image.jpg" class="pub-img" width="150px" style="margin-right: 20px;"/>
+
+::: pub-text
+<h3><a href="https://www.vice.com/en/article/how-woke-liberals-convince-themselves-that-gentrifying-is-okay/">How ‘Woke’ Liberals Convince Themselves That Gentrifying Is Okay. VICE, July 2019.</a></h3>
+
+<p>In this op-ed for VICE, I talk about my research on gentrifiers and the personal experience that motivated my work. In 2015, my college roommates and I shared the top half of a brownstone in Brooklyn’s Bedford-Stuyvesant (Bed-Stuy) neighborhood. As politically engaged young people, my friends and I were concerned about the displacement of longtime residents, but we were noticeably silent on our own role in the process…<a href="https://www.vice.com/en/article/how-woke-liberals-convince-themselves-that-gentrifying-is-okay/" class="btn btn-primary">Read More</a></p>
+:::
+::::
+
+:::: pub-container
+<img src="cnn.image.png" class="pub-img" width="150px" style="margin-right: 20px;"/>
+
+::: pub-text
+<h3><a href="https://www.cnn.com/2020/06/29/opinions/coronavirus-single-parenting-graduate-school-donnelly/index.html">Grad student mom: This is something I can’t fix. CNN, June 2020</a></h3>
+
+<p>As part of CNN’s “Generation Pandemic” series, this op-ed reflects on my experience as a single mother and graduate student amidst a global pandemic. <a href="https://www.cnn.com/2020/06/29/opinions/coronavirus-single-parenting-graduate-school-donnelly/index.html" class="btn btn-primary">Read More</a></p>
+:::
+::::
+
+```{=html}
+<style>
+.pub-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}
+
+.pub-img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+
+.pub-text {
+  flex: 1 1 300px;
+  min-width: 200px;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .pub-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .pub-img {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+}
+</style>
+```
+
+:::: ::::::
