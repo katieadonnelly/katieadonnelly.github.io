@@ -7,18 +7,25 @@
     "text": "Quantitative Research\n\nSurvey design and analysis\nStatistical modeling (R)\n\n\n\nQualitative Research\n\nIn-depth interviewing\nFocus groups\nMixed methods studies\n\n\n\nData Visualization\n\nInteractive data dashboards\nData reporting\n\nGet in touch for tailored research support!"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
     "section": "",
-    "text": "Hi! I’m Katie Donnelly, a data visualization expert and research consultant.\nI hold a Ph.D. in Sociology and Social Policy from Princeton University.\nI have extensive experience conducting research in academic and industry settings, as well as in translating research results into actionable insights for a variety of stakeholders, both domestically and internationally.\nI specialize in both qualitative and quantitative methods. Check out my work and get in touch!"
+    "text": "US Census Data Dashboard\nThis is an example of an interactive data dashboard that I can create for clients. The map represents 2010 US Census data, showing the racial/ethnic data at the census tract level. User’s can select their variable of interest via a drop down menu, as well as adjust the range of interest to calibrate the visualization to their needs.\n\n\nStock Market Data Dashboard\nHere is another example of the types of interactive dashboards I can create for clients. In this dashboard, users can input a stock of their choice, using the three letter stock symbol. The chart will then display the stock price over time. Users have the option to plot along a log scale or adjust for inflation in the visualization."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "portfolio.html#interactive-dashboards",
+    "href": "portfolio.html#interactive-dashboards",
+    "title": "Portfolio",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "US Census Data Dashboard\nThis is an example of an interactive data dashboard that I can create for clients. The map represents 2010 US Census data, showing the racial/ethnic data at the census tract level. User’s can select their variable of interest via a drop down menu, as well as adjust the range of interest to calibrate the visualization to their needs.\n\n\nStock Market Data Dashboard\nHere is another example of the types of interactive dashboards I can create for clients. In this dashboard, users can input a stock of their choice, using the three letter stock symbol. The chart will then display the stock price over time. Users have the option to plot along a log scale or adjust for inflation in the visualization."
+  },
+  {
+    "objectID": "portfolio.html#data-visualizations",
+    "href": "portfolio.html#data-visualizations",
+    "title": "Portfolio",
+    "section": "Data Visualizations",
+    "text": "Data Visualizations\nThis map is from a project I did for the Kenyan Health Ministry. The Ministry wanted to map health care centers, according to their classification tier, in the neighborhood of Makadara in Nairobi, Kenya. Users can toggle through various types of maps, including topographical and street view, in order to see where neighborhood health centers are located and what level of care they provide.\n\n\n\nLink to GitHub repo with code\nAnother Shiny app"
   },
   {
     "objectID": "contact.html",
@@ -28,24 +35,45 @@
     "text": "Email: kd5@princeton.alumni.edu\nLinkedIn: Katie Donnelly LinkedIn"
   },
   {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "Portfolio",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "US Census Data Dashboard This is an example of an interactive data dashboard that I can create for clients. The map represents 2010 US Census data, showing the racial/ethnic data at the census tract level. User’s can select their variable of interest via a drop down menu, as well as adjust the range of interest to calibrate the visualization to their needs.\n\n\nStock Market Data Dashboard Here is another example of the types of interactive dashboards I can create for clients. In this dashboard, users can input a stock of their choice, using the three letter stock symbol. The chart will then display the stock price over time. Users have the option to plot along a log scale or adjust for inflation in the visualization."
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "portfolio.html#interactive-dashboards",
-    "href": "portfolio.html#interactive-dashboards",
-    "title": "Portfolio",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
     "section": "",
-    "text": "US Census Data Dashboard This is an example of an interactive data dashboard that I can create for clients. The map represents 2010 US Census data, showing the racial/ethnic data at the census tract level. User’s can select their variable of interest via a drop down menu, as well as adjust the range of interest to calibrate the visualization to their needs.\n\n\nStock Market Data Dashboard Here is another example of the types of interactive dashboards I can create for clients. In this dashboard, users can input a stock of their choice, using the three letter stock symbol. The chart will then display the stock price over time. Users have the option to plot along a log scale or adjust for inflation in the visualization."
+    "text": "Hi! I’m Katie Donnelly, a data visualization expert and research consultant.I hold a Ph.D. in Sociology and Social Policy from Princeton University.I have extensive experience conducting research in academic and industry settings, as well as in translating research results into actionable insights for a variety of stakeholders, both domestically and internationally. I specialize in both qualitative and quantitative methods. Check out my work and get in touch!"
   },
   {
-    "objectID": "portfolio.html#data-visualizations",
-    "href": "portfolio.html#data-visualizations",
-    "title": "Portfolio",
-    "section": "Data Visualizations",
-    "text": "Data Visualizations\nThis map is from a project I did for the Kenyan Health Ministry. The Ministry wanted to map health care centers, according to their classification tier, in the neighborhood of Makadara in Nairobi, Kenya. Users can toggle through various types of maps, including topographical and street view, in order to see where neighborhood health centers are located and what level of care they provide.\n\n\n\nLink to GitHub repo with code\nAnother Shiny app"
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome",
+    "section": "",
+    "text": "Hi! I’m Katie Donnelly, a data visualization expert and research consultant.I hold a Ph.D. in Sociology and Social Policy from Princeton University.I have extensive experience conducting research in academic and industry settings, as well as in translating research results into actionable insights for a variety of stakeholders, both domestically and internationally. I specialize in both qualitative and quantitative methods. Check out my work and get in touch!"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Medical distrust is often conceived of as a problem of misinformation or ignorance. In this paper, I depart from this framework, attributing distrust instead to epistemic divergence between lay people and experts. Using data from a contraceptive side effects Facebook group and in-depth physician interviews, I find that providers employ a “body-as-subject” lens informed by population-health goals, while group members employ a “body-as-agent” lens that privileges individuality and bodily autonomy. Provider epistemologies are privileged, creating epistemic injustice and harm for patients. Ultimately, this erodes trust in providers and the medical community more broadly. Read More\n\n\n\n\n\n\n\n\nThis paper examines how gentrifiers negotiate tensions between the narratives of liberal progressivism they espouse and their role in neighborhood change. Through in‐depth interviews with recent residents in a gentrifying neighborhood in Brooklyn, this paper identifies patterns in rhetorical strategies and narrative techniques employed by interviewees to manage points of conflict. It finds that gentrifiers express ambivalence and feelings of guilt surrounding their presence in the neighborhood and that they manage this ambivalence through three main strategies: (1) reframing the outcomes of gentrification in positive terms, (2) distinguishing their behaviors and attitudes from the stereotypical “bad” gentrifier, and (3) displacing their responsibility for the process of gentrification onto another group of actors, such as the government or real estate developers. These results provide a framework for understanding how individuals justify their complicity in other processes which they see as morally questionable, such as unethical consumerism. Read More"
+  },
+  {
+    "objectID": "publications.html#academic-publications",
+    "href": "publications.html#academic-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Medical distrust is often conceived of as a problem of misinformation or ignorance. In this paper, I depart from this framework, attributing distrust instead to epistemic divergence between lay people and experts. Using data from a contraceptive side effects Facebook group and in-depth physician interviews, I find that providers employ a “body-as-subject” lens informed by population-health goals, while group members employ a “body-as-agent” lens that privileges individuality and bodily autonomy. Provider epistemologies are privileged, creating epistemic injustice and harm for patients. Ultimately, this erodes trust in providers and the medical community more broadly. Read More\n\n\n\n\n\n\n\n\nThis paper examines how gentrifiers negotiate tensions between the narratives of liberal progressivism they espouse and their role in neighborhood change. Through in‐depth interviews with recent residents in a gentrifying neighborhood in Brooklyn, this paper identifies patterns in rhetorical strategies and narrative techniques employed by interviewees to manage points of conflict. It finds that gentrifiers express ambivalence and feelings of guilt surrounding their presence in the neighborhood and that they manage this ambivalence through three main strategies: (1) reframing the outcomes of gentrification in positive terms, (2) distinguishing their behaviors and attitudes from the stereotypical “bad” gentrifier, and (3) displacing their responsibility for the process of gentrification onto another group of actors, such as the government or real estate developers. These results provide a framework for understanding how individuals justify their complicity in other processes which they see as morally questionable, such as unethical consumerism. Read More"
+  },
+  {
+    "objectID": "publications.html#media-publications",
+    "href": "publications.html#media-publications",
+    "title": "Publications",
+    "section": "Media Publications",
+    "text": "Media Publications\n\n\n\n\nHow ‘Woke’ Liberals Convince Themselves That Gentrifying Is Okay. VICE, July 2019.\n\n\nIn this op-ed for VICE, I talk about my research on gentrifiers and the personal experience that motivated my work. In 2015, my college roommates and I shared the top half of a brownstone in Brooklyn’s Bedford-Stuyvesant (Bed-Stuy) neighborhood. As politically engaged young people, my friends and I were concerned about the displacement of longtime residents, but we were noticeably silent on our own role in the process…Read More\n\n\n\n\n\n\n\nGrad student mom: This is something I can’t fix. CNN, June 2020\n\n\nAs part of CNN’s “Generation Pandemic” series, this op-ed reflects on my experience as a single mother and graduate student amidst a global pandemic. Read More"
   }
 ]
