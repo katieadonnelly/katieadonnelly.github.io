@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
+    "section": "",
+    "text": "Quantitative Research\n\nSurvey design and analysis\nStatistical modeling (R)\n\n\n\nQualitative Research\n\nInterview design\nThematic analysis\nMixed methods studies\n\n\n\nData Visualization\n\nInteractive data dashboards\nData reporting\n\nGet in touch for tailored research support!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Hi! I’m Katie Donnelly, a data visualization expert and research consultant.\nI specialize in both qualitative and quantitative methods. Check out my work and get in touch!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "contact",
+    "section": "",
+    "text": "Email: kd5@princeton.alumni.edu\nGitHub: @yourhandle\nLinkedIn: Your Profile"
+  },
+  {
+    "objectID": "portfolio.html#data-visualizations",
+    "href": "portfolio.html#data-visualizations",
+    "title": "portfolio",
+    "section": "Data Visualizations",
+    "text": "Data Visualizations\n\n\n\nLink to GitHub repo with code\nAnother Shiny app"
+  }
+]
