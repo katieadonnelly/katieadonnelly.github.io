@@ -195,7 +195,7 @@ This paper examines how gentrifiers negotiate tensions between the narratives of
 <section id="media-publications" class="level2">
 <h2 class="anchored" data-anchor-id="media-publications">Media Publications</h2>
 <div class="pub-container">
-<p><img src="vice.image.jpg" class="pub-img" width="150px" style="margin-right: 20px;"></p>
+<p><img src="vice.image.jpg" class="pub-img-vice" width="150px" style="margin-right: 20px;"></p>
 <div class="pub-text">
 <h3 class="anchored">
 <a href="https://www.vice.com/en/article/how-woke-liberals-convince-themselves-that-gentrifying-is-okay/">How ‘Woke’ Liberals Convince Themselves That Gentrifying Is Okay. VICE, July 2019.</a>
@@ -228,8 +228,17 @@ As part of CNN’s “Generation Pandemic” series, this op-ed reflects on my e
   width: 180px;
   height: 180px;
   object-fit: cover;
+  object-position: center top;  /* or try 50% 20%, or 50% 30% */
   margin-right: 20px;
   border-radius: 10px;
+}
+
+.pub-img-vice {
+  width: 100%;             /* Ensure the image takes up the full container width */
+  max-width: 180px;        /* Limits the image width */
+  height: auto;            /* Keeps the aspect ratio intact */
+  object-fit: cover;
+  object-position: 50% 20%; /* Adjust to fit the crop */
 }
 
 .pub-text {
@@ -253,8 +262,9 @@ As part of CNN’s “Generation Pandemic” series, this op-ed reflects on my e
 </style>
 <div class="::::::">
 
-
 </div>
+
+
 </section>
 
 </main> <!-- /main -->
