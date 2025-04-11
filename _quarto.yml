@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Katie Donnelly"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Portfolio"
+        href: portfolio.qmd
+      - text: "Services"
+        href: services.qmd
+      - text: "Contact"
+        href: contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true

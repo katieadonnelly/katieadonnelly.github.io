@@ -1,0 +1,21 @@
+---
+title: "Services"
+---
+
+### Quantitative Research
+
+-   Survey design and analysis
+-   Statistical modeling (R)
+
+### Qualitative Research
+
+-   Interview design
+-   Thematic analysis
+-   Mixed methods studies
+
+### Data Visualization
+
+-   Interactive data dashboards
+-   Data reporting
+
+Get in touch for tailored research support!

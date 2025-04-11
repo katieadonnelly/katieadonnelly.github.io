@@ -1,0 +1,14 @@
+---
+title: "portfolio"
+---
+
+## Interactive Dashboards
+
+<iframe src="https://employeeandculturalengagement.shinyapps.io/census-app/" width="100%" height="600px">
+
+</iframe>
+
+## Data Visualizations
+
+-   [Link to GitHub repo with code](https://github.com/katieadonnelly/katiedonnelly.github.io)
+-   [Another Shiny app](https://employeeandculturalengagement.shinyapps.io/stockvis/)
