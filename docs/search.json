@@ -4,7 +4,28 @@
     "href": "services.html",
     "title": "Services",
     "section": "",
-    "text": "Quantitative Research\n\nSurvey design and analysis\nStatistical modeling (R)\n\n\n\nQualitative Research\n\nIn-depth interviewing\nFocus groups\nMixed methods studies\n\n\n\nData Visualization\n\nInteractive data dashboards\nData reporting\n\nGet in touch for tailored research support!"
+    "text": "Survey design and analysis\n\n\nStatistical modeling (R)"
+  },
+  {
+    "objectID": "services.html#quantitative-research",
+    "href": "services.html#quantitative-research",
+    "title": "Services",
+    "section": "",
+    "text": "Survey design and analysis\n\n\nStatistical modeling (R)"
+  },
+  {
+    "objectID": "services.html#qualitative-research",
+    "href": "services.html#qualitative-research",
+    "title": "Services",
+    "section": "Qualitative Research",
+    "text": "Qualitative Research\n\n\n\nIn-depth interviewing\n\n\nFocus groups\n\n\nMixed methods studies"
+  },
+  {
+    "objectID": "services.html#data-visualization",
+    "href": "services.html#data-visualization",
+    "title": "Services",
+    "section": "Data Visualization",
+    "text": "Data Visualization\n\n\n\nInteractive data dashboards\n\n\nData reporting\n\n\n\n\n\nGet in touch for tailored research support!\n\nContact Me"
   },
   {
     "objectID": "portfolio.html",
@@ -32,7 +53,14 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Email: kd5@princeton.alumni.edu\nLinkedIn: Katie Donnelly LinkedIn"
+    "text": "Email: kd5@alumni.princeton.edu\nLinkedIn: Katie Donnelly\n\nSend an Email\n\n\nOr, leave me a message:\n\n \n\n\nSend Message"
+  },
+  {
+    "objectID": "contact.html#lets-connect",
+    "href": "contact.html#lets-connect",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: kd5@alumni.princeton.edu\nLinkedIn: Katie Donnelly\n\nSend an Email\n\n\nOr, leave me a message:\n\n \n\n\nSend Message"
   },
   {
     "objectID": "about.html",
