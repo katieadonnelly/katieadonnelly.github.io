@@ -147,6 +147,23 @@ ul.task-list li input[type="checkbox"] {
   .contact-form button:hover {
     background-color: #218838;
   }
+   .form-container {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+  }
+
+  .form-container iframe {
+    width: 100%;
+    border: none;
+  }
+
+  @media (max-width: 600px) {
+    .form-container iframe {
+      height: 1200px; /* Increase height if needed for mobile scrolling */
+    }
+  }
 </style>
 
 
@@ -241,9 +258,11 @@ ul.task-list li input[type="checkbox"] {
 <!-- Optional: Contact Form (Uncomment below if you want a form) -->
 <div class="contact-form">
 <p><strong>Or, leave me a message:</strong></p>
+<div class="form-container">
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfNK1D4fR8ElU9HUSgRUxsMZSvSIsK1a4WiGBldRz-h-h7U6w/viewform?embedded=true" width="640" height="781" frameborder="0" marginheight="0" marginwidth="0">
 <p>Loading…</p>
 </iframe>
+</div>
 </div>
 </section>
 
